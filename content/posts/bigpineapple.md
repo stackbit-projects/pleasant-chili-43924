@@ -4,7 +4,9 @@ subtitle: A Sunshine Coast Tourism Favourite
 date: '2021-09-05'
 thumb_img_alt: The Big Pineapple
 content_img_alt: The famous pineapple parfaits
-excerpt: lorem-ipsum
+excerpt: >-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna aliqua.
 seo:
   title: ''
   description: ''
