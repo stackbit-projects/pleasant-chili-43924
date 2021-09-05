@@ -2,7 +2,7 @@
 title: The Big Pineapple
 subtitle: A Sunshine Coast Tourism Favourite
 date: '2021-09-05'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: The Big Pineapple
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
