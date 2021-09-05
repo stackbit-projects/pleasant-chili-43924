@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_img_path: images/IMG_2566.jpg
+content_img_path: images/IMG_2577.jpg
 ---
 ## Lorem ipsum
 
